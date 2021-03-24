@@ -13,5 +13,5 @@ Mainly **Tensorflow** and **Pytorch**, have some code using **Keras**.
 NLP
 | NLP | Notebook | keywords |
 | ------ | ------ | ------ |
-| BERT | [Notebook](https://github.com/nakaizura/Source-Code-Notebook/tree/master/BERT) | Pretraning NLP |
+| BERT | [Notebook](https://github.com/June24-Wu/Deep_Learning_Code/tree/main/BERT) | Pretraning NLP |
 
