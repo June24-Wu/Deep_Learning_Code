@@ -14,4 +14,5 @@ NLP
 | NLP | Notebook | keywords |
 | ------ | ------ | ------ |
 | BERT | [Notebook](https://github.com/June24-Wu/Deep_Learning_Code/tree/main/BERT) | Pretraning NLP |
+| Skip-Thought Vectors | [Notebook](https://github.com/June24-Wu/Deep_Learning_Code/blob/main/Skip-Thought%20Vectors/data_loader.py) | Sentence2vec |
 
